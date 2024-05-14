@@ -1,0 +1,18 @@
+---
+title: "Healthcare Data Analysis"
+output: html_document
+---
+##1. Load Libraries and Set Working Directory
+
+Because we are working in R Markdown and we want to use SQL,
+we'll need to load SQL libraries and also tidyverse so we can visualize the data.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(DBI)
+library(RSQLite)
+library(tidyverse)
+
+```
+
+``````{r setup, include=TRUE}

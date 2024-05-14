@@ -1,0 +1,106 @@
+ClientID,Age,Gender,Ethnicity,PrimaryDiagnosis,SecondaryDiagnosis,AdmissionDate,DischargeDate,TreatmentOutcome,LengthOfStay,ServiceType,TreatmentType
+1,34,Male,Hispanic,Depression,Anxiety,2023-01-15,2023-03-10,Improved,55,Inpatient,Medication
+2,45,Female,Asian,Bipolar Disorder,PTSD,2023-02-01,2023-04-15,Improved,73,Outpatient,Therapy
+3,29,Non-binary,White,Schizophrenia,,2023-03-10,2023-05-12,No Change,63,Residential,Counseling
+4,52,Male,Black,Alcohol Use Disorder,Depression,2023-01-20,2023-02-20,Worsened,31,Inpatient,Medication
+5,38,Female,White,PTSD,Anxiety,2023-04-05,2023-05-15,Improved,40,Outpatient,Therapy
+309,42,Female,White,Bipolar Disorder,,2023-11-26,2023-12-06,Worsened,10,Outpatient,Medication
+457,64,Non-binary,Black,Alcohol Use Disorder,Anxiety,2023-10-31,2024-05-13,Improved,195,Residential,Medication
+197,40,Male,White,Schizophrenia,PTSD,2024-02-26,2024-03-13,Improved,16,Residential,Counseling
+174,36,Male,Asian,Depression,PTSD,2023-12-13,2024-02-05,No Change,54,Inpatient,Therapy
+230,46,Female,Black,Depression,Anxiety,2024-01-07,2024-01-29,No Change,22,Outpatient,Therapy
+361,40,Non-binary,White,Schizophrenia,PTSD,2024-04-19,2024-05-13,Worsened,24,Outpatient,Medication
+75,35,Non-binary,Asian,Depression,Anxiety,2023-09-05,2024-04-03,Improved,211,Residential,Medication
+120,69,Female,White,Schizophrenia,PTSD,2024-03-18,2024-04-24,No Change,37,Inpatient,Counseling
+386,48,Male,Black,PTSD,Anxiety,2024-04-17,2024-04-29,Worsened,12,Inpatient,Counseling
+257,62,Non-binary,Hispanic,Alcohol Use Disorder,Anxiety,2024-04-03,2024-05-07,Improved,34,Residential,Counseling
+60,77,Female,Asian,Bipolar Disorder,,2023-08-11,2024-05-08,Worsened,271,Residential,Therapy
+365,64,Female,Hispanic,PTSD,Anxiety,2024-03-16,2024-05-01,Worsened,46,Outpatient,Counseling
+440,50,Male,Black,Schizophrenia,,2024-05-01,2024-05-05,No Change,4,Outpatient,Medication
+394,35,Male,Asian,Bipolar Disorder,,2023-06-04,2023-08-10,Worsened,67,Outpatient,Medication
+295,60,Female,Hispanic,Alcohol Use Disorder,PTSD,2023-05-15,2023-11-18,Worsened,187,Residential,Counseling
+405,40,Female,White,Alcohol Use Disorder,PTSD,2023-07-03,2023-10-05,No Change,94,Outpatient,Therapy
+24,73,Female,Hispanic,Depression,Anxiety,2023-09-05,2024-02-19,Improved,167,Inpatient,Therapy
+202,61,Non-binary,White,Bipolar Disorder,,2024-04-29,2024-05-11,Improved,12,Residential,Therapy
+414,53,Non-binary,White,Bipolar Disorder,,2023-08-08,2024-02-20,Improved,196,Residential,Therapy
+312,57,Female,Hispanic,Depression,Anxiety,2023-08-28,2024-01-13,No Change,138,Inpatient,Medication
+437,20,Male,Hispanic,Schizophrenia,PTSD,2023-07-15,2024-01-04,Worsened,173,Residential,Counseling
+86,72,Female,Black,PTSD,Anxiety,2023-09-24,2023-10-24,No Change,30,Outpatient,Therapy
+384,36,Male,Asian,Bipolar Disorder,,2023-10-07,2023-11-30,No Change,54,Outpatient,Medication
+272,55,Non-binary,Hispanic,Depression,Anxiety,2024-01-15,2024-02-23,Improved,39,Inpatient,Counseling
+103,26,Male,White,Bipolar Disorder,,2023-12-10,2023-12-31,Worsened,21,Residential,Medication
+237,45,Male,Black,Bipolar Disorder,PTSD,2023-12-21,2024-02-22,Worsened,63,Inpatient,Medication
+133,41,Non-binary,Hispanic,Depression,Anxiety,2023-10-01,2024-03-24,No Change,175,Outpatient,Therapy
+261,37,Male,White,Depression,PTSD,2023-05-25,2023-08-07,Improved,74,Outpatient,Therapy
+334,39,Female,Hispanic,PTSD,PTSD,2023-12-29,2024-01-31,Worsened,33,Inpatient,Therapy
+196,49,Non-binary,Black,Bipolar Disorder,Anxiety,2024-02-28,2024-04-25,Worsened,57,Outpatient,Counseling
+124,25,Female,Hispanic,Alcohol Use Disorder,,2024-02-21,2024-03-23,No Change,31,Inpatient,Therapy
+178,62,Non-binary,White,Depression,Anxiety,2023-07-17,2023-09-04,Improved,49,Residential,Therapy
+117,35,Male,Asian,Schizophrenia,PTSD,2023-11-07,2024-01-12,Improved,66,Residential,Therapy
+374,34,Non-binary,White,PTSD,Anxiety,2023-11-27,2024-05-04,No Change,159,Residential,Medication
+360,79,Male,Hispanic,Bipolar Disorder,PTSD,2023-08-28,2024-02-04,No Change,160,Inpatient,Therapy
+148,53,Male,White,Depression,Anxiety,2023-11-15,2024-01-05,Worsened,51,Inpatient,Therapy
+279,21,Female,Asian,Depression,PTSD,2024-04-19,2024-05-08,Improved,19,Outpatient,Therapy
+489,69,Non-binary,Asian,Depression,PTSD,2023-08-25,2023-09-12,No Change,18,Outpatient,Medication
+238,54,Female,Hispanic,Depression,,2024-01-02,2024-04-04,No Change,93,Outpatient,Counseling
+467,67,Non-binary,Asian,Bipolar Disorder,,2023-06-01,2024-02-21,Improved,265,Inpatient,Counseling
+247,79,Non-binary,Hispanic,Schizophrenia,PTSD,2023-08-28,2024-01-25,Improved,150,Outpatient,Medication
+181,26,Male,White,Depression,PTSD,2024-04-15,2024-05-01,Improved,16,Residential,Therapy
+329,30,Male,White,Depression,,2023-06-24,2024-03-12,No Change,262,Outpatient,Medication
+174,23,Male,Black,Schizophrenia,Anxiety,2024-04-10,2024-05-10,No Change,30,Outpatient,Medication
+421,38,Female,Black,PTSD,,2024-05-10,2024-05-10,Improved,0,Outpatient,Medication
+376,79,Non-binary,White,PTSD,PTSD,2023-12-23,2024-02-24,Worsened,63,Inpatient,Therapy
+404,58,Female,Asian,Schizophrenia,,2024-03-14,2024-04-01,No Change,18,Outpatient,Therapy
+351,73,Non-binary,Asian,Schizophrenia,PTSD,2024-04-02,2024-04-19,Worsened,17,Inpatient,Medication
+471,58,Male,Black,Schizophrenia,PTSD,2023-06-08,2024-04-30,No Change,327,Outpatient,Therapy
+350,47,Female,Black,PTSD,Anxiety,2024-01-26,2024-02-28,Improved,33,Inpatient,Medication
+417,50,Male,Black,Bipolar Disorder,PTSD,2023-10-31,2024-05-02,No Change,184,Residential,Medication
+150,63,Female,Hispanic,Bipolar Disorder,Anxiety,2023-05-17,2023-06-05,Worsened,19,Inpatient,Therapy
+173,34,Non-binary,White,Alcohol Use Disorder,,2023-10-14,2024-05-04,Worsened,203,Outpatient,Therapy
+400,50,Male,Asian,Bipolar Disorder,PTSD,2023-06-10,2024-04-16,Improved,311,Inpatient,Counseling
+223,62,Male,Hispanic,Depression,,2023-05-25,2023-11-03,Worsened,162,Residential,Medication
+176,40,Non-binary,Hispanic,Depression,,2023-07-02,2024-04-15,No Change,288,Residential,Counseling
+15,37,Male,Black,PTSD,PTSD,2023-12-18,2024-02-28,No Change,72,Residential,Medication
+202,56,Male,Hispanic,Alcohol Use Disorder,Anxiety,2023-09-21,2024-02-08,Improved,140,Outpatient,Counseling
+264,45,Male,White,Bipolar Disorder,PTSD,2023-09-05,2024-05-06,Improved,244,Outpatient,Therapy
+363,22,Female,Black,Depression,PTSD,2023-12-04,2024-02-05,No Change,63,Outpatient,Medication
+109,18,Male,Black,Depression,PTSD,2023-06-29,2024-04-15,Worsened,291,Outpatient,Medication
+126,80,Male,Asian,Alcohol Use Disorder,PTSD,2023-06-05,2023-07-08,Improved,33,Residential,Counseling
+98,23,Male,Black,Schizophrenia,,2023-07-23,2023-12-31,Improved,161,Outpatient,Counseling
+31,28,Female,White,Bipolar Disorder,Anxiety,2023-11-25,2024-01-23,Worsened,59,Residential,Therapy
+6,57,Female,White,Depression,PTSD,2023-09-20,2024-03-10,Improved,172,Residential,Therapy
+308,41,Male,Hispanic,Depression,,2023-11-08,2024-04-03,Worsened,147,Outpatient,Counseling
+65,60,Non-binary,White,Alcohol Use Disorder,PTSD,2023-08-27,2024-04-10,Improved,227,Residential,Counseling
+246,53,Male,Hispanic,Schizophrenia,PTSD,2024-02-23,2024-03-30,Improved,36,Residential,Medication
+377,65,Male,Hispanic,Schizophrenia,PTSD,2024-04-30,2024-05-02,No Change,2,Residential,Counseling
+153,69,Female,Black,Bipolar Disorder,Anxiety,2023-06-07,2023-08-24,Worsened,78,Inpatient,Therapy
+147,42,Non-binary,Black,Depression,Anxiety,2024-01-27,2024-03-09,No Change,42,Inpatient,Medication
+339,28,Female,Hispanic,Bipolar Disorder,PTSD,2023-08-19,2023-09-10,No Change,22,Inpatient,Medication
+7,58,Female,Hispanic,PTSD,Anxiety,2023-12-09,2023-12-25,Worsened,16,Outpatient,Counseling
+289,23,Female,Asian,Schizophrenia,PTSD,2024-03-20,2024-04-16,No Change,27,Residential,Counseling
+248,60,Female,Hispanic,Depression,Anxiety,2023-06-04,2023-09-26,No Change,114,Inpatient,Medication
+373,52,Female,White,Bipolar Disorder,PTSD,2023-09-28,2023-10-01,Worsened,3,Outpatient,Counseling
+93,36,Female,Hispanic,Depression,Anxiety,2024-05-05,2024-05-09,Improved,4,Inpatient,Counseling
+493,38,Male,Hispanic,Alcohol Use Disorder,Anxiety,2023-12-13,2024-02-28,Improved,77,Outpatient,Therapy
+57,36,Female,Asian,Alcohol Use Disorder,PTSD,2023-09-30,2024-01-20,No Change,112,Outpatient,Counseling
+240,55,Female,White,Bipolar Disorder,PTSD,2023-11-08,2024-04-01,Worsened,145,Residential,Medication
+38,30,Female,White,Alcohol Use Disorder,PTSD,2024-02-28,2024-03-17,No Change,18,Outpatient,Therapy
+356,57,Male,White,Depression,Anxiety,2023-12-02,2023-12-24,No Change,22,Outpatient,Counseling
+297,60,Female,Asian,Depression,PTSD,2023-09-01,2023-10-05,No Change,34,Inpatient,Counseling
+206,57,Female,Black,PTSD,,2023-05-23,2024-04-26,Worsened,339,Residential,Counseling
+291,54,Non-binary,Asian,Bipolar Disorder,PTSD,2023-08-30,2024-04-06,Worsened,220,Outpatient,Counseling
+73,73,Female,Asian,PTSD,Anxiety,2023-08-17,2024-04-22,Improved,249,Inpatient,Therapy
+42,49,Non-binary,Black,Schizophrenia,,2024-03-03,2024-05-05,Improved,63,Outpatient,Medication
+70,62,Non-binary,White,PTSD,PTSD,2023-07-16,2024-04-02,Worsened,261,Outpatient,Counseling
+328,39,Non-binary,Hispanic,Schizophrenia,PTSD,2024-01-17,2024-04-11,No Change,85,Residential,Therapy
+86,42,Male,Black,Alcohol Use Disorder,PTSD,2023-08-19,2023-09-02,No Change,14,Inpatient,Medication
+328,57,Male,Black,Depression,Anxiety,2024-05-09,2024-05-10,No Change,1,Inpatient,Therapy
+365,76,Non-binary,Black,Alcohol Use Disorder,Anxiety,2023-11-11,2023-12-31,Improved,50,Inpatient,Counseling
+310,60,Male,Black,Schizophrenia,PTSD,2024-04-20,2024-05-04,Improved,14,Outpatient,Counseling
+465,52,Female,Black,Alcohol Use Disorder,PTSD,2023-07-31,2023-11-14,No Change,106,Outpatient,Counseling
+26,40,Male,Black,PTSD,,2023-09-14,2024-04-25,Worsened,224,Residential,Therapy
+219,66,Non-binary,Black,Schizophrenia,Anxiety,2023-10-11,2023-11-05,Improved,25,Inpatient,Medication
+398,45,Female,White,Depression,,2024-01-07,2024-04-26,Improved,110,Outpatient,Therapy
+480,22,Female,Black,Alcohol Use Disorder,PTSD,2023-08-24,2023-09-20,Improved,27,Inpatient,Therapy
+95,53,Non-binary,White,Bipolar Disorder,,2023-10-25,2023-12-22,Worsened,58,Inpatient,Counseling
+252,54,Female,Hispanic,Alcohol Use Disorder,,2023-11-25,2023-12-17,No Change,22,Residential,Therapy
